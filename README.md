@@ -1,4 +1,4 @@
-# Player360 — Gaming Analytics & Monetization Command Center
+# Player360: Gaming Analytics & Monetization Command Center
 
 Concise synthetic data generator and notebook for gaming analytics experiments.
 
